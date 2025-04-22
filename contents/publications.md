@@ -93,3 +93,5 @@
 - <strong>David M. Cerna</strong> (2014). A Tableaux-Based Decision Procedure for Multi-parameter Propositional Schemata.
  <em> International Conference on Intelligent Computer Mathematics (CICM) </em>: 61-75
  [[Paper]](https://doi.org/10.1007/978-3-319-08434-3_6)
+
+<h1 align="center"> Preprints  </h1>
