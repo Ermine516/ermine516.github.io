@@ -58,3 +58,6 @@
  <em>  International Conference on Formal Structures for Computation and Deduction (FSCD) </em>:  10:1-10:19
  [[Paper]](https://doi.org/10.4230/LIPIcs.FSCD.2019.10)
 
+- <strong>David M. Cerna</strong>, Rafael P. D. Kiesel, Alexandra Dzhiganskaya (2019). A Mobile Application for Self-Guided Study of Formal Reasoning.
+ <em> International Workshop on Theorem Proving Components for Educational Software (ThEdu) </em>:  35-53
+ [[Paper]](https://doi.org/10.4204/EPTCS.313.3)
