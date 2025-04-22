@@ -28,7 +28,7 @@ on these topics and regularly contributes to the subjects.
 Automated reasoning, Inductive reasoning, and computational logic
 
 #### Curriculum Vitae
-[Full CV]({{ermine516.github.io}}{contents/CV.pdf})
+[Full CV]({{ site.baseurl }}{% link contents/CV.pdf %})
 
 
 
