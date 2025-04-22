@@ -78,3 +78,18 @@
  <em> International Symposium on Symbolic and Numeric Algorithms for Scientific Computing  (SYNASC) </em>: 113-120
  [[Paper]](https://doi.org/10.1109/SYNASC.2017.00029)
 
+- <strong>David M. Cerna</strong>, Alexander Leitsch (2016). Schematic Cut Elimination and the Ordered Pigeonhole Principle.
+ <em> International Joint Conference on Automated Reasoning  (IJCAR) </em>: 241-256
+ [[Paper]](https://doi.org/10.1007/978-3-319-40229-1_17)
+
+- <strong>David M. Cerna</strong>, Wolfgang Schreiner, Temur Kutsia (2016). Predicting Space Requirements for a Stream Monitor Specification Language.
+ <em> International Conference on Runtime Verification (RV) </em>: 135-151
+ [[Paper]](https://doi.org/10.1007/978-3-319-46982-9_9)
+
+- <strong>David M. Cerna</strong>, Wolfgang Schreiner, Temur Kutsia (2016). Space Analysis of a Predicate Logic Fragment for the Specification of Stream Monitors.
+ <em> International Symposium on Symbolic Computation in Software Science (SCSS) </em>: 29-41
+ [[Paper]](https://doi.org/10.29007/jnj2)
+
+- <strong>David M. Cerna</strong> (2014). A Tableaux-Based Decision Procedure for Multi-parameter Propositional Schemata.
+ <em> International Conference on Intelligent Computer Mathematics (CICM) </em>: 61-75
+ [[Paper]](https://doi.org/10.1007/978-3-319-08434-3_6)
