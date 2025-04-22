@@ -30,9 +30,8 @@ Automated reasoning, Inductive reasoning, and computational logic
 #### Other Interests
 Climbing, Running, Hiking, Billiards
 
-#### Curriculum Vitae
-[Full CV](https://drive.google.com/file/d/1W6Fxaqnq8kXgn5mITogL0hqp7gkvvbxQ/view?usp=drive_link)
-
+#### Documents and Pages
+[Curriculum Vitae](https://drive.google.com/file/d/1W6Fxaqnq8kXgn5mITogL0hqp7gkvvbxQ/view?usp=drive_link)
 
 [Old Homepage](https://www.cs.cas.cz/dcerna/)
 
