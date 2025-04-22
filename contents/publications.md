@@ -36,5 +36,8 @@
  <em> IJCAI </em>:  6563-6573 [[Paper]](https://doi.org/10.24963/ijcai.2023/736) 
 
 - Stanislaw J. Purgal, <strong>David M. Cerna</strong>, Cezary Kaliszyk (2022). Learning Higher-Order Logic Programs From Failures.
- <em> IJCAI </em>:  2726-2733 [[Paper]](https://doi.org/10.24963/ijcai.2023/736)
+ <em> IJCAI </em>:  2726-2733 [[Paper]](https://doi.org/10.24963/ijcai.2022/378)
+
+- <strong>David M. Cerna</strong>, (2021). A Special Case of Schematic Syntactic Unification.
+ <em> SYNASC </em>:  75-82 [[Paper]](https://doi.org/10.1109/SYNASC54541.2021.00024)
 
