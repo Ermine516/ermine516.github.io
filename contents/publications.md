@@ -38,6 +38,8 @@
 - Stanislaw J. Purgal, <strong>David M. Cerna</strong>, Cezary Kaliszyk (2022). Learning Higher-Order Logic Programs From Failures.
  <em> International Joint Conference on Artificial Intelligence (IJCAI) </em>:  2726-2733 [[Paper]](https://doi.org/10.24963/ijcai.2022/378)
 
-- <strong>David M. Cerna</strong>, (2021). A Special Case of Schematic Syntactic Unification.
+- <strong>David M. Cerna</strong> (2021). A Special Case of Schematic Syntactic Unification.
  <em>  International Symposium on Symbolic and Numeric Algorithms for Scientific Computing (SYNASC) </em>:  75-82 [[Paper]](https://doi.org/10.1109/SYNASC54541.2021.00024)
 
+- Lee A. Barnett,<strong>David M. Cerna</strong>, Armin Biere (2020). Covered Clauses Are Not Propagation Redundant.
+ <em>  International Joint Conference on Automated Reasoning (IJCAR) </em>: (1) 32-47 [[Paper]](https://doi.org/10.1007/978-3-030-51074-9_3)
