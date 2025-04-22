@@ -28,3 +28,13 @@
 
 -  Lasse Blaauwbroek, <strong>David M. Cerna</strong>, Thibault Gauthier, Jan Jakubuv, Cezary Kaliszyk, Martin Suda, Josef Urban (2024). Learning Guided Automated Reasoning: A Brief Survey.
  <em> Logics and Type Systems in Theory and Practice </em>:  54-83 [[Paper]](https://doi.org/10.1007/978-3-031-61716-4_4) 
+
+-  Mauricio Ayala-Rincón, <strong>David M. Cerna</strong>, Andres Felipe Gonzalez Barragan, Temur Kutsia (2024). Equational Anti-unification over Absorption Theories.
+ <em> IJCAR </em>: (2)  317-337 [[Paper]](https://doi.org/10.1007/978-3-031-63501-4_17) 
+
+-  <strong>David M. Cerna</strong>, Temur Kutsia (2023). Anti-unification and Generalization: A Survey.
+ <em> IJCAI </em>:  6563-6573 [[Paper]](https://doi.org/10.24963/ijcai.2023/736) 
+
+- Stanislaw J. Purgal, <strong>David M. Cerna</strong>, Cezary Kaliszyk (2022). Learning Higher-Order Logic Programs From Failures.
+ <em> IJCAI </em>:  2726-2733 [[Paper]](https://doi.org/10.24963/ijcai.2023/736)
+
