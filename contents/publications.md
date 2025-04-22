@@ -106,7 +106,7 @@
  <em> ArXiv </em>:
  [[Paper]](https://doi.org/10.48550/arXiv.2502.01232)
 
-- <strong>David M. Cerna</strong> (2024), Julian Parsert. One is all you need: Second-order Unification without First-order Variables.
+- <strong>David M. Cerna</strong>, Julian Parsert (2024). One is all you need: Second-order Unification without First-order Variables.
  <em> ArXiv </em>: 
  [[Paper]](https://doi.org/10.48550/arXiv.2404.10616)
 
