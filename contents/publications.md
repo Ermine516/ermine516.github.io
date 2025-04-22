@@ -21,23 +21,23 @@
 # Conference Papers
 
 - Minghao Liu, <strong>David M. Cerna</strong>, Filipe Gouveia, Andrew Cropper (2025). Scalable Knowledge Refactoring Using Constrained Optimisation.
- <em> AAAI-25 </em>: 15049-15057 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33650) 
+ <em> Association for the Advancement of Artificial Intelligence (AAAI-25) </em>: 15049-15057 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33650) 
 
 -  <strong>David M. Cerna</strong>, Andrew Cropper (2024). Generalisation through Negation and Predicate Invention.
- <em> AAAI-24 </em>:  10467-10475 [[Paper]](https://doi.org/10.1609/aaai.v38i9.28915) 
+ <em> Association for the Advancement of Artificial Intelligence (AAAI-24) </em>:  10467-10475 [[Paper]](https://doi.org/10.1609/aaai.v38i9.28915) 
 
 -  Lasse Blaauwbroek, <strong>David M. Cerna</strong>, Thibault Gauthier, Jan Jakubuv, Cezary Kaliszyk, Martin Suda, Josef Urban (2024). Learning Guided Automated Reasoning: A Brief Survey.
  <em> Logics and Type Systems in Theory and Practice </em>:  54-83 [[Paper]](https://doi.org/10.1007/978-3-031-61716-4_4) 
 
 -  Mauricio Ayala-Rincón, <strong>David M. Cerna</strong>, Andres Felipe Gonzalez Barragan, Temur Kutsia (2024). Equational Anti-unification over Absorption Theories.
- <em> IJCAR </em>: (2)  317-337 [[Paper]](https://doi.org/10.1007/978-3-031-63501-4_17) 
+ <em> International Joint Conference on Automated Reasoning (IJCAR) </em>: (2)  317-337 [[Paper]](https://doi.org/10.1007/978-3-031-63501-4_17) 
 
 -  <strong>David M. Cerna</strong>, Temur Kutsia (2023). Anti-unification and Generalization: A Survey.
- <em> IJCAI </em>:  6563-6573 [[Paper]](https://doi.org/10.24963/ijcai.2023/736) 
+ <em> International Joint Conference on Artificial Intelligence (IJCAI) </em>:  6563-6573 [[Paper]](https://doi.org/10.24963/ijcai.2023/736) 
 
 - Stanislaw J. Purgal, <strong>David M. Cerna</strong>, Cezary Kaliszyk (2022). Learning Higher-Order Logic Programs From Failures.
- <em> IJCAI </em>:  2726-2733 [[Paper]](https://doi.org/10.24963/ijcai.2022/378)
+ <em> International Joint Conference on Artificial Intelligence (IJCAI) </em>:  2726-2733 [[Paper]](https://doi.org/10.24963/ijcai.2022/378)
 
 - <strong>David M. Cerna</strong>, (2021). A Special Case of Schematic Syntactic Unification.
- <em> SYNASC </em>:  75-82 [[Paper]](https://doi.org/10.1109/SYNASC54541.2021.00024)
+ <em>  International Symposium on Symbolic and Numeric Algorithms for Scientific Computing (SYNASC) </em>:  75-82 [[Paper]](https://doi.org/10.1109/SYNASC54541.2021.00024)
 
