@@ -29,7 +29,7 @@ on these topics and regularly contributes to the subjects.
 Automated reasoning, Inductive reasoning, and computational logic
 
 #### Curriculum Vitae
-[Full CV](static/assets/img/CV.pdf)
+[Full CV](CV.pdf)
 
 
 
