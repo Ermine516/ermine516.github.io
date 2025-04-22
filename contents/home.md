@@ -21,7 +21,7 @@ Learning and proofs), which ran from 2021 to 2025. In 2025, David joined
 the Dynatrace research team (distributed database systems).
 His main areas of expertise are automated reasoning, inductive
 reasoning, and computational logic. He has given several invited talks
-on these topics and regularly contributes to the subjects.
+on these topics and regularly contributes to the subjects. 
 
 
 #### Research Interests
@@ -34,4 +34,5 @@ Climbing, Running, Hiking, Billiards
 [Full CV](https://drive.google.com/file/d/1W6Fxaqnq8kXgn5mITogL0hqp7gkvvbxQ/view?usp=drive_link)
 
 
+[Old Homepage](https://www.cs.cas.cz/dcerna/)
 
