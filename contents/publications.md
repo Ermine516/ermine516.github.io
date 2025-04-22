@@ -111,3 +111,6 @@
  [[Paper]](https://doi.org/10.48550/arXiv.2404.10616)
 
 
+- <strong>David M. Cerna</strong> (2023). Recursive First-order Syntactic Unification Modulo Variable Classes.
+ <em> ArXiv </em>: 
+ [[Paper]](https://doi.org/10.48550/arXiv.2306.09152)
