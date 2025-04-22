@@ -27,6 +27,9 @@ on these topics and regularly contributes to the subjects.
 #### Research Interests
 Automated reasoning, Inductive reasoning, and computational logic
 
+#### Other Interests
+Climbing, Running, Hiking, Billiards
+
 #### Curriculum Vitae
 [Full CV](CV.pdf)
 
