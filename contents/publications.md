@@ -65,3 +65,16 @@
 - <strong>David M. Cerna</strong>, Temur Kutsia (2018). Higher-Order Equational Pattern Anti-Unification.
  <em> International Conference on Formal Structures for Computation and Deduction (FSCD) </em>: 12:1-12:17
  [[Paper]](https://doi.org/10.4230/LIPIcs.FSCD.2018.12)
+
+- <strong>David M. Cerna</strong>, Wolfgang Schreiner (2017). Measuring the Gap: Algorithmic Approximation Bounds for the Space Complexity of Stream Specifications.
+ <em> International Symposium on Symbolic Computation in Software Science (SCSS) </em>: 1-15
+ [[Paper]](https://doi.org/10.29007/t3jg)
+
+- <strong>David M. Cerna</strong>, Michael Peter Lettmann (2017). Integrating a Global Induction Mechanism into a Sequent Calculus.
+ <em> International Conference on Automated Reasoning with Analytic Tableaux and Related Methods  (TABLEAUX) </em>: 278-294
+ [[Paper]](https://doi.org/10.1007/978-3-319-66902-1_17)
+
+- <strong>David M. Cerna</strong>, Michael Peter Lettmann (2017). Towards a Clausal Analysis of Proof Schemata.
+ <em> International Symposium on Symbolic and Numeric Algorithms for Scientific Computing  (SYNASC) </em>: 113-120
+ [[Paper]](https://doi.org/10.1109/SYNASC.2017.00029)
+
