@@ -1,4 +1,4 @@
-# Journal Papers
+<h1 align="center"> Journal Papers  </h1>
 
 - <strong>David M. Cerna</strong>, Michal Buran (2024). One or Nothing: Anti-unification over the Simply-Typed Lambda Calculus. 
  <em> ACM Transactions in  Computational Logic </em> 25(3): 1-12 [[Paper]](https://dl.acm.org/doi/10.1145/3654798) 
@@ -18,7 +18,7 @@
 - <strong>David M. Cerna</strong>, Alexander Leitsch, Giselle Reis, Simon Wolfsteiner (2017). Ceres in intuitionistic logic. 
  <em> Annals of Pure and Applied Logic </em> 21(2): 168(10): 1783-1836 [[Paper]](https://dl.acm.org/doi/10.1145/3359060) 
 
-# Conference Papers
+<h1 align="center"> Conference Papers  </h1>
 
 - Minghao Liu, <strong>David M. Cerna</strong>, Filipe Gouveia, Andrew Cropper (2025). Scalable Knowledge Refactoring Using Constrained Optimisation.
  <em> Association for the Advancement of Artificial Intelligence (AAAI-25) </em>: 15049-15057 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33650) 
