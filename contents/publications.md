@@ -23,3 +23,5 @@
 - Minghao Liu, <strong>David M. Cerna</strong>, Filipe Gouveia, Andrew Cropper (2025). Scalable Knowledge Refactoring Using Constrained Optimisation.
  <em> AAAI-25 </em>: 15049-15057 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33650) 
 
+-  <strong>David M. Cerna</strong>, Andrew Cropper (2024). Generalisation through Negation and Predicate Invention.
+ <em> AAAI-24 </em>:  10467-10475 [[Paper]](https://doi.org/10.1609/aaai.v38i9.28915) 
