@@ -53,3 +53,8 @@
 
 - <strong>David M. Cerna</strong>, Martina Seidl, Wolfgang Schreiner, Wolfgang Windsteiger, Armin Biere (2020). Aiding an Introduction to Formal Reasoning Within a First-Year Logic Course for CS Majors Using a Mobile Self-Study App.
  <em>  ACM Conference on Innovation and Technology in Computer Science Education (ITICSE) </em>:  61-67 [[Paper]](https://doi.org/10.1145/3341525.3387409)
+
+- <strong>David M. Cerna</strong>, Temur Kutsia (2019). A Generic Framework for Higher-Order Generalizations.
+ <em>  International Conference on Formal Structures for Computation and Deduction (FSCD) </em>:  10:1-10:19
+ [[Paper]](https://doi.org/10.4230/LIPIcs.FSCD.2019.10)
+
