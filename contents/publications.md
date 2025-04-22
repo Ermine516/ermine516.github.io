@@ -46,3 +46,10 @@
 
 - <strong>David M. Cerna</strong>, Martina Seidl, Wolfgang Schreiner, Wolfgang Windsteiger, Armin Biere (2020). Computational Logic in the First Semester of Computer Science: An Experience Report.
  <em>  International Conference on Computer Supported Education (CSEDU) </em>:  (2) 374-381 [[Paper]](https://doi.org/10.5220/0009464403740381)
+
+- <strong>David M. Cerna</strong>, Temur Kutsia (2020). Unital Anti-Unification: Type and Algorithms.
+ <em>  International Conference on Formal Structures for Computation and Deduction (FSCD) </em>:  26:1-26:20
+ [[Paper]](https://doi.org/10.4230/LIPIcs.FSCD.2020.26)
+
+- <strong>David M. Cerna</strong>, Martina Seidl, Wolfgang Schreiner, Wolfgang Windsteiger, Armin Biere (2020). Aiding an Introduction to Formal Reasoning Within a First-Year Logic Course for CS Majors Using a Mobile Self-Study App.
+ <em>  ACM Conference on Innovation and Technology in Computer Science Education (ITICSE) </em>:  61-67 [[Paper]](https://doi.org/10.1145/3341525.3387409)
