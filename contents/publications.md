@@ -11,3 +11,9 @@
 
 - <strong>David M. Cerna</strong> (2020). Anti-unification and the theory of semirings. 
  <em> Theoretical Computer Science </em> 848: 133-139  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0304397520306034?via%3Dihub) 
+
+- <strong>David M. Cerna</strong>, Temur Kutsia (2020). Idempotent Anti-unification. 
+ <em> ACM Transactions in  Computational Logic </em> 21(2): 10:1-10:32 [[Paper]](https://dl.acm.org/doi/10.1145/3359060) 
+
+- <strong>David M. Cerna</strong>, Alexander Leitsch, Giselle Reis, Simon Wolfsteiner (2017). Ceres in intuitionistic logic. 
+ <em> Annals of Pure and Applied Logic </em> 21(2): 168(10): 1783-1836 [[Paper]](https://dl.acm.org/doi/10.1145/3359060) 
