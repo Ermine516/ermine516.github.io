@@ -43,3 +43,6 @@
 
 - Lee A. Barnett,<strong>David M. Cerna</strong>, Armin Biere (2020). Covered Clauses Are Not Propagation Redundant.
  <em>  International Joint Conference on Automated Reasoning (IJCAR) </em>: (1) 32-47 [[Paper]](https://doi.org/10.1007/978-3-030-51074-9_3)
+
+- <strong>David M. Cerna</strong>, Martina Seidl, Wolfgang Schreiner, Wolfgang Windsteiger, Armin Biere (2020). Computational Logic in the First Semester of Computer Science: An Experience Report.
+ <em>  International Conference on Computer Supported Education (CSEDU) </em>:  (2) 374-381 [[Paper]](https://doi.org/10.5220/0009464403740381)
