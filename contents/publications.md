@@ -21,5 +21,5 @@
 # Conference Papers
 
 - Minghao Liu, <strong>David M. Cerna</strong>, Filipe Gouveia, Andrew Cropper (2025). Scalable Knowledge Refactoring Using Constrained Optimisation.
- <em> AAAI </em> 21(2): 15049-15057 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33650) 
+ <em> AAAI-25 </em>: 15049-15057 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33650) 
 
