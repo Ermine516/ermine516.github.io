@@ -31,7 +31,7 @@ Automated reasoning, Inductive reasoning, and computational logic
 Climbing, Running, Hiking, Billiards
 
 #### Curriculum Vitae
-[Full CV](https://github.com/Ermine516/ermine516.github.io/tree/main/contents/CV.pdf)
+[Full CV](https://drive.google.com/file/d/1W6Fxaqnq8kXgn5mITogL0hqp7gkvvbxQ/view?usp=drive_link)
 
 
 
