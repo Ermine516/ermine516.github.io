@@ -3,5 +3,5 @@ June 2025 REcursive STructures (PANDAFOREST)</strong>. Hosts:<em> CAS ICS, Pragu
 </em>. [webpage]{https://www.cs.cas.cz/dcerna/Panda.html} 
 
 - 2020-2023 <strong>Learning to Prove by MATHematical Induction:
-Feb. 2023 Invariant Discovery Aided by Modern Machine Learning Technology (PANDAFOREST)</strong>. Hosts:<em> RISC,Linz, Austria. Funded by:<em> Upper Austrian Government through Linz Insitute of Technology. 
+Feb. 2023 Invariant Discovery Aided by Modern Machine Learning Technology (Math_LP)</strong>. Hosts:<em> RISC,Linz, Austria. Funded by:<em> Upper Austrian Government through Linz Insitute of Technology. 
 </em>. [webpage]{https://risc.jku.at/pj/math-lp-lit-project/} 
