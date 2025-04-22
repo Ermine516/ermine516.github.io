@@ -95,3 +95,9 @@
  [[Paper]](https://doi.org/10.1007/978-3-319-08434-3_6)
 
 <h1 align="center"> Preprints  </h1>
+
+-  Andrew Cropper, <strong>David M. Cerna</strong> (2025). Efficient rule induction by ignoring pointless rules.
+ <em> ArXiv </em>: 61-75
+ [[Paper]](https://doi.org/10.48550/arXiv.2502.01232)
+
+
