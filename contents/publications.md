@@ -21,7 +21,13 @@
 <h1 align="center"> Conference Papers  </h1>
 
 - Minghao Liu, <strong>David M. Cerna</strong>, Filipe Gouveia, Andrew Cropper (2025). Scalable Knowledge Refactoring Using Constrained Optimisation.
- <em> Association for the Advancement of Artificial Intelligence (AAAI-25) </em>: 15049-15057 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33650) 
+ <em> Association for the Advancement of Artificial Intelligence (AAAI-25) </em>: 15049-15057 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33650)
+
+- Stanislaw J. Purgal, <strong>David M. Cerna</strong>, Cezary Kaliszyk (2024). Differentiable Inductive Logic Programming in High-Dimensional Space.
+ <em> International Joint Conference on Learning and Reasoning (IJCLR)  </em>: To Appear [[Paper]](https://doi.org/10.48550/arXiv.2208.06652) 
+
+- Liao Zhang, <strong>David M. Cerna</strong>, Cezary Kaliszyk (2024). Learning Rules Explaining Interactive Theorem Proving Tactic Prediction.
+ <em> International Joint Conference on Learning and Reasoning (IJCLR)  </em>: To Appear [[Paper]](https://doi.org/10.48550/arXiv.2411.01188) 
 
 -  <strong>David M. Cerna</strong>, Andrew Cropper (2024). Generalisation through Negation and Predicate Invention.
  <em> Association for the Advancement of Artificial Intelligence (AAAI-24) </em>:  10467-10475 [[Paper]](https://doi.org/10.1609/aaai.v38i9.28915) 
@@ -97,7 +103,11 @@
 <h1 align="center"> Preprints  </h1>
 
 -  Andrew Cropper, <strong>David M. Cerna</strong> (2025). Efficient rule induction by ignoring pointless rules.
- <em> ArXiv </em>: 61-75
+ <em> ArXiv </em>:
  [[Paper]](https://doi.org/10.48550/arXiv.2502.01232)
+
+- <strong>David M. Cerna</strong> (2024), Julian Parsert. One is all you need: Second-order Unification without First-order Variables.
+ <em> ArXiv </em>: 
+ [[Paper]](https://doi.org/10.48550/arXiv.2404.10616)
 
 
