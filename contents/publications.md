@@ -25,3 +25,6 @@
 
 -  <strong>David M. Cerna</strong>, Andrew Cropper (2024). Generalisation through Negation and Predicate Invention.
  <em> AAAI-24 </em>:  10467-10475 [[Paper]](https://doi.org/10.1609/aaai.v38i9.28915) 
+
+-  Lasse Blaauwbroek, <strong>David M. Cerna</strong>, Thibault Gauthier, Jan Jakubuv, Cezary Kaliszyk, Martin Suda, Josef Urban (2024). Learning Guided Automated Reasoning: A Brief Survey.
+ <em> Logics and Type Systems in Theory and Practice </em>:  54-83 [[Paper]](https://doi.org/10.1007/978-3-031-61716-4_4) 
