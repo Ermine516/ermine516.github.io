@@ -17,3 +17,9 @@
 
 - <strong>David M. Cerna</strong>, Alexander Leitsch, Giselle Reis, Simon Wolfsteiner (2017). Ceres in intuitionistic logic. 
  <em> Annals of Pure and Applied Logic </em> 21(2): 168(10): 1783-1836 [[Paper]](https://dl.acm.org/doi/10.1145/3359060) 
+
+# Conference Papers
+
+- Minghao Liu, <strong>David M. Cerna</strong>, Filipe Gouveia, Andrew Cropper (2025). Scalable Knowledge Refactoring Using Constrained Optimisation.
+ <em> AAAI </em> 21(2): 15049-15057 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33650) 
+
