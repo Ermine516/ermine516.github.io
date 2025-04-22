@@ -1,6 +1,5 @@
 
 
-[![Ermine516](https://img.shields.io/badge/Ermine516-github-blue?logo=github)](https://github.com/Ermine516)
 
 
 David received his PhD in 2015 in the field of Computational Proof
