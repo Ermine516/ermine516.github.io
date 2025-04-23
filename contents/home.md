@@ -31,7 +31,7 @@ Automated reasoning, Inductive reasoning, and computational logic
 Climbing, Running, Hiking, Billiards
 
 #### Documents and Pages
-[Curriculum Vitae](https://drive.google.com/file/d/1W6Fxaqnq8kXgn5mITogL0hqp7gkvvbxQ/view?usp=drive_link)
+[Curriculum Vitae](https://drive.google.com/file/d/1qUC4O98Xg8NTKtAobjO7t0qrAbQNp0BU/view?usp=drive_link)
 
 [Old Homepage](https://www.cs.cas.cz/dcerna/)
 
