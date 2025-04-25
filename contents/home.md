@@ -35,3 +35,9 @@ Climbing, Running, Hiking, Billiards
 
 [Old Homepage](https://www.cs.cas.cz/dcerna/)
 
+           <a href="https://dblp.org/pid/147/6069.html" rel="noopener noreferrer" target="_blank" id="pages"><i class="ai ai-dblp"></i></a>
+	<a href="https://orcid.org/0000-0002-6352-603X" rel="noopener noreferrer" target="_blank" id="pages"><i class="ai ai-orcid"></i></a>
+	<a href="https://scholar.google.com/citations?user=SEWgr70AAAAJ&hl=en" rel="noopener noreferrer" target="_blank" id="pages"><i class="ai ai-google-scholar"></i></a>
+	<a href="https://www.scopus.com/authid/detail.uri?authorId=56266923400" rel="noopener noreferrer" target="_blank" id="pages"><i class="ai ai-scopus"></i></a>
+	<a href="https://github.com/Ermine516/" rel="noopener noreferrer" target="_blank" id="pages"><i class="fa fa-github" ></i></a>
+	<a href="https://www.linkedin.com/in/dmcerna/" rel="noopener noreferrer" target="_blank" id="pages"><i class="fa fa-linkedin" ></i></a>
