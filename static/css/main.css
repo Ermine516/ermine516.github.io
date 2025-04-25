@@ -1,6 +1,6 @@
 @import "./styles.css";
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
-
+﻿@import url(http://fonts.googleapis.com/css?family=ariel);
 :root{
     --h-title-color:#000000;
 }
