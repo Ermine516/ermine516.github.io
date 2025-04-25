@@ -34,11 +34,11 @@ Climbing, Running, Hiking, Billiards
 [Curriculum Vitae](https://drive.google.com/file/d/1qUC4O98Xg8NTKtAobjO7t0qrAbQNp0BU/view?usp=drive_link)
 
 [Old Homepage](https://www.cs.cas.cz/dcerna/)
+
 [<i class="ai ai-dblp"></i>](https://dblp.org/pid/147/6069.html)
 [<i class="ai ai-orcid"></i>](https://orcid.org/0000-0002-6352-603X)
+[<i class="ai ai-google-scholar"></i>](https://scholar.google.com/citations?user=SEWgr70AAAAJ&hl=en)
 
-	<a href="" rel="noopener noreferrer" target="_blank" id="pages"></a>
-	<a href="https://scholar.google.com/citations?user=SEWgr70AAAAJ&hl=en" rel="noopener noreferrer" target="_blank" id="pages"><i class="ai ai-google-scholar"></i></a>
 	<a href="https://www.scopus.com/authid/detail.uri?authorId=56266923400" rel="noopener noreferrer" target="_blank" id="pages"><i class="ai ai-scopus"></i></a>
 	<a href="https://github.com/Ermine516/" rel="noopener noreferrer" target="_blank" id="pages"><i class="fa fa-github" ></i></a>
 	<a href="https://www.linkedin.com/in/dmcerna/" rel="noopener noreferrer" target="_blank" id="pages"><i class="fa fa-linkedin" ></i></a>
