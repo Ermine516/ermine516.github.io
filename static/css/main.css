@@ -1,5 +1,5 @@
 @import "./styles.css";
-
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
 
 :root{
     --h-title-color:#000000;
